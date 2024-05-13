@@ -1,6 +1,5 @@
 # Tic Tac Toe Game in C++
-
-Dive into the classic game of Tic Tac Toe with this C++ console application. Built using standard C++ libraries along with Windows specific headers for enhanced console features, this game provides an engaging two-player experience—player versus computer—where strategy meets luck.
+This Tic Tac Toe game is implemented in C++ and offers an interactive console-based experience where a player competes against a computer-controlled opponent. Utilizing basic concepts of arrays and functions, the game features dynamic input validation, color-coded console output for clarity, and automated checks for win conditions across rows, columns, and diagonals. Designed for simplicity and ease of use, this application demonstrates practical application of programming fundamentals in creating a fun and engaging game environment.
 
 ## Features
 
